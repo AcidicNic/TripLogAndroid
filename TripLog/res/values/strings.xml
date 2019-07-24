@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TripLog</string>
+    <string name="add_media_button">Add Content</string>
+    <string name="text_hint">What\'s up?</string>
+    <string name="Text_Send_Description">send</string>
+    <string name="Logo_Launch_Screen">TripLog</string>
+    <string name="trip_archive_button">Trip Archive</string>
+    <string name="new_trip_button">New Trip</string>
+</resources>
