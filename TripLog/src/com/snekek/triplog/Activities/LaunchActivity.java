@@ -1,10 +1,12 @@
-package com.snekek.triplog;
+package com.snekek.triplog.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.snekek.triplog.R;
 
 public class LaunchActivity extends AppCompatActivity {
 
@@ -21,7 +23,7 @@ public class LaunchActivity extends AppCompatActivity {
         gotoNewTrip.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(LaunchActivity.this, TripActivity.class));
+                startActivity(new Intent(LaunchActivity.this, NewTripActivity.class));
             }
         });
 
