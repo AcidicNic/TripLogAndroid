@@ -4,9 +4,9 @@ An android app for writing psychedelic trip reports. With safety features and ha
 ------
 ## To Do:
 * ~~Menu activity~~
-* Recyclerview!
+* ~~Recyclerview!~~
 * Add edits to the textviews
-* Trip details (dose, drug name, time dosed, redose button)
+* [Started] Trip details (dose, drug name, time dosed, redose button)
 * Drug info from psychonautwiki
 * Warning when dangerous combos are listed
 * ~estimate reccomended dose based on height, weight, and tolerance (if applicable.)
